@@ -1,0 +1,33 @@
+.container {
+	width: 550px;
+}
+
+#timer {
+	height: 70px;
+	margin-top: 50px;
+	border: 5px solid #000;
+	background-color: #c2c2c2; 
+	font-size: 40px;
+	font-weight: bold; 
+}
+
+.controlButtons {
+	margin-top: 50px;
+	text-align: center;
+}
+
+#start, #reset {
+	width: 200px;
+	margin: 0 20px;
+	border: 5px solid #000;	
+	font-weight: bold;
+	font-size: 22px;
+}
+
+#start {
+	background-color: #32cd32; 
+}
+
+#reset {
+	background-color: #ff0000;
+}
